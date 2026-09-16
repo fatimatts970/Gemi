@@ -1,0 +1,6 @@
+{
+  "appId": "com.aisquadx.bulkgenerator",
+  "appName": "Bulk Media Generator",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
