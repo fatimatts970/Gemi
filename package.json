@@ -1,0 +1,11 @@
+{
+  "name": "gemini-bulk-generator-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "build": "echo 'static app, nothing to build'" },
+  "dependencies": {
+    "@capacitor/core": "^6.1.0",
+    "@capacitor/android": "^6.1.0"
+  },
+  "devDependencies": { "@capacitor/cli": "^6.1.0" }
+}
